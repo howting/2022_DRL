@@ -1,10 +1,11 @@
 
-# Deep rl hw5 dqn opanai gym 實作
+# Deep rl hw5 dqn opanai gym 實作<H1>
 運用老師給的code 在github 不同的遊戲創建不同的分支
 分別為原始的Lunar Lander  跟自己創的MountainCar、CartPole、Acrobot
 在test newgame有一個更改dqn架構 還在試著跑新遊戲的程式   目前還有些問題還在debug會慢慢更新
 將dqn 從老師的只有全連階層改為有捲基層
-
+ 更改迭帶次數
+ 
 
 https://github.com/howting/2022_DRL/blob/main/
 
